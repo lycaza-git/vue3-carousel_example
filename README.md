@@ -27,7 +27,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ## vu3-carousel is not mine
 ## https://www.npmjs.com/package/vue3-carousel
 ##
-## PACKAGE IS NOT MINE ##
-## this project used the package and aims to show how to use it.
+
 
 
